@@ -6,7 +6,7 @@ This project analyzes cross-border sales and shipment operations across **6 key 
 ---
 
 ## 📸 Dashboard Overview
-![Business Summary Dashboard](./Tableau_Visual_Report.png)
+![Business Summary Dashboard](./Tableau%20Visual%20Report.png)
 
 > **Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/YOUR_WORKBOOK_LINK)
 
